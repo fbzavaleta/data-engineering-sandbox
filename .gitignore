@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#custom filesystem
+./r_database/db-prod 
+./r_database/local 
